@@ -70,6 +70,6 @@ Then open your browser and go to:
   
 Important Links
 
-Web App: https://simple-swap-project.vercel.app
+Web App: https://simple-swap-project-amber.vercel.app/
 
 GitHub Repository: https://github.com/jazmin-boop/simple-swap-project
