@@ -69,6 +69,7 @@ Then open your browser and go to:
   http://localhost:5173
   
 Important Links
+
 Web App: https://simple-swap-project.vercel.app
 
 GitHub Repository: https://github.com/jazmin-boop/simple-swap-project
